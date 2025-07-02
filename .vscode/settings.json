@@ -1,6 +1,8 @@
 {
-  "typescript.autoImportSuggestions.enabled": true,
+  "typescript.suggest.autoImports": true,
+  "javascript.suggest.autoImports": true,
+  "typescript.preferences.importModuleSpecifier": "auto",
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "javascript.autoImportSuggestions.enabled": true,
-  "javascript.updateImportsOnFileMove.enabled": "always"
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.enablePromptUseWorkspaceTsdk": true
 }
