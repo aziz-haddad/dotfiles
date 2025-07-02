@@ -1,0 +1,6 @@
+vscode:
+  extensions:
+    - styled-components.vscode-styled-components
+
+tasks:
+  - init: ./gitpod-setup.sh

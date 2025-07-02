@@ -1,0 +1,6 @@
+{
+  "typescript.autoImportSuggestions.enabled": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.autoImportSuggestions.enabled": true,
+  "javascript.updateImportsOnFileMove.enabled": "always"
+}
