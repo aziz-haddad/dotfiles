@@ -1,6 +1,7 @@
 vscode:
   extensions:
     - styled-components.vscode-styled-components
+    - tailwindcss.tailwindcss
 
 tasks:
   - init: ./gitpod-setup.sh
